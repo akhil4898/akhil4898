@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=akhil4898)   -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil4898&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhil4898&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)  -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akhil4898&theme=blux)](https://git.io/streak-stats)
 
