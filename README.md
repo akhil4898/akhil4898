@@ -13,9 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil4898&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil4898&theme=onedark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <hr>
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=akhil4898)   -->
